@@ -1,0 +1,5 @@
+LIBRARY "Projecr2"
+
+EXPORTS
+	test01 @ 1
+	test02 @ 2
