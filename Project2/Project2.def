@@ -1,4 +1,4 @@
-LIBRARY "Projecr2"
+LIBRARY "Project2"
 
 EXPORTS
 	test01 @ 1
